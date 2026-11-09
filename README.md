@@ -86,9 +86,6 @@ RacingTeamManagementSystem/
 ├── .gitignore
 ├── Database/
 │   └── Database_Setup.sql
-├── Docs/
-│   ├── Project_Report.pdf
-│   └── diagrams/
 └── RacingTeamManagementSystem/
     ├── RacingTeamManagementSystem.vbproj
     ├── App.config
